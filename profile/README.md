@@ -20,14 +20,14 @@
 
 ### Repositories
 
-| Repository | What it is | |
+| Repository | What it is | Type |
 |---|---|---|
 | [Vanilla-RTX](https://github.com/vanilla-rtx/Vanilla-RTX) | Vanilla RTX, Vanilla RTX Normals and Vanilla RTX Opus resource packs | Resource packs |
 | [Vanilla-RTX-App](https://github.com/vanilla-rtx/Vanilla-RTX-App) | The companion app for Minecraft RTX (Windows, WinUI 3) | App |
 | [Vanilla-RTX-Extras](https://github.com/vanilla-rtx/Vanilla-RTX-Extras) | Add-ons and extensions for Vanilla RTX | Extras |
 | [Vanilla-PBR](https://github.com/vanilla-rtx/Vanilla-PBR) | Vanilla RTX for the Vibrant Visuals graphics mode | Extras |
 | [Texture-Set-Manager](https://github.com/vanilla-rtx/Texture-Set-Manager) | Generate and manage PBR texture set templates (Windows) | Tool |
-| [BrArchive.Net](https://github.com/vanilla-rtx/BrArchive.Net) | .NET library for Bedrock Archive (`.brarchive`) files, [on NuGet](https://www.nuget.org/packages/BrArchive.Net) | Library |
+| [BrArchive.Net](https://github.com/vanilla-rtx/BrArchive.Net) | .NET library for Bedrock Archive (`.brarchive`) files, [on NuGet](https://www.nuget.org/packages/BrArchive.Net) | Tool |
 | [Minecraft-RTX-Bug-Tracking](https://github.com/vanilla-rtx/Minecraft-RTX-Bug-Tracking) | Every known Minecraft RTX bug and its status on Mojang's tracker | Reference |
 
 ### Get involved
