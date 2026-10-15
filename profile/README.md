@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vanillartx.net"><img alt="vanillartx.net" src="https://img.shields.io/badge/website-vanillartx.net-ffd27a?style=flat-square&labelColor=1b1a19"></a>
+  <a href="https://vanillartx.net"><img alt="vanillartx.net" src="https://img.shields.io/badge/website-vanillartx.net-f4e9d3?style=flat-square&labelColor=1b1a19"></a>
   <a href="https://apps.microsoft.com/detail/9N6PCRZ5V9DJ"><img alt="Vanilla RTX App on the Microsoft Store" src="https://img.shields.io/badge/app-Microsoft%20Store-c4ef1f?style=flat-square&labelColor=1b1a19"></a>
   <a href="https://github.com/vanilla-rtx/Vanilla-RTX"><img alt="Vanilla RTX stars" src="https://img.shields.io/github/stars/vanilla-rtx/Vanilla-RTX?style=flat-square&label=stars&color=f4e9d3&labelColor=1b1a19"></a>
   <a href="https://discord.gg/A4wv4wwYud"><img alt="Discord" src="https://img.shields.io/badge/discord-join-b57bff?style=flat-square&labelColor=1b1a19"></a>
@@ -17,53 +17,6 @@
 </p>
 
 <br>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/vanilla-rtx/Vanilla-RTX"><img src="assets/vanilla-rtx.jpg" alt="Vanilla RTX"></a>
-      <h3>Vanilla RTX</h3>
-      PBR textures for every block in Bedrock Edition, faithful to the original art. Three variants: <b>Vanilla RTX</b>, <b>Normals</b> and <b>Opus</b>, plus workarounds for almost every resource-related ray tracing bug.
-      <br><br>
-      <a href="https://github.com/vanilla-rtx/Vanilla-RTX">Repository</a> ·
-      <a href="https://vanillartx.net/vanilla-rtx">Website</a> ·
-      <a href="https://github.com/vanilla-rtx/Vanilla-RTX/releases/latest">Download</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/vanilla-rtx/Vanilla-RTX-App"><img src="assets/app.jpg" alt="Vanilla RTX App"></a>
-      <h3>Vanilla RTX App</h3>
-      Everything for Minecraft RTX in one place: install and update the packs, tune any ray-traced pack, convert texture packs with <b>RTX Reactor</b>, manage BetterRTX and DLSS, and launch with ray tracing on.
-      <br><br>
-      <a href="https://github.com/vanilla-rtx/Vanilla-RTX-App">Repository</a> ·
-      <a href="https://vanillartx.net/app">Website</a> ·
-      <a href="https://apps.microsoft.com/detail/9N6PCRZ5V9DJ">Microsoft Store</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/vanilla-rtx/Vanilla-RTX-Extras"><img src="assets/extras.jpg" alt="Vanilla RTX Extras"></a>
-      <h3>Extras</h3>
-      Add-ons and extensions layered over Vanilla RTX: glowing blocks, clear water and glass, perfect mirrors, Everwinter, Creative RTX, Chemistry RTX, and <b>Vanilla RTX for Vibrant Visuals</b>.
-      <br><br>
-      <a href="https://github.com/vanilla-rtx/Vanilla-RTX-Extras">Extras</a> ·
-      <a href="https://github.com/vanilla-rtx/Vanilla-PBR">Vibrant Visuals</a> ·
-      <a href="https://vanillartx.net/extras">Website</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/vanilla-rtx/Texture-Set-Manager"><img src="assets/tools.jpg" alt="Tools for creators"></a>
-      <h3>Tools for creators</h3>
-      Some of the tooling behind Vanilla RTX, open for everyone making resource packs: <b>Texture Set Manager</b>, the <b>BrArchive.Net</b> library, and a tracker of every known Minecraft RTX bug.
-      <br><br>
-      <a href="https://github.com/vanilla-rtx/Texture-Set-Manager">Texture Set Manager</a> ·
-      <a href="https://github.com/vanilla-rtx/BrArchive.Net">BrArchive.Net</a> ·
-      <a href="https://github.com/vanilla-rtx/Minecraft-RTX-Bug-Tracking">Bug tracker</a>
-    </td>
-  </tr>
-</table>
-
-### <img src="assets/lamp.png" width="22" alt=""> Coming next: Supervanilla RTX
-
-A shader mod for Minecraft RTX that takes the Vanilla RTX look further than resource packs alone can go. In development; follow [vanillartx.net](https://vanillartx.net) or the [Discord](https://discord.gg/A4wv4wwYud) for news.
 
 ### Repositories
 
@@ -85,4 +38,6 @@ A shader mod for Minecraft RTX that takes the Vanilla RTX look further than reso
 
 <br>
 
-<sub>Made and maintained by <a href="https://github.com/Cubeir">Cubeir</a> with the Vanilla RTX community. Not approved by or affiliated with Mojang Studios, Microsoft or NVIDIA. Vanilla RTX is not an official Minecraft product.</sub>
+---
+
+Not approved by or affiliated with Mojang Studios, Microsoft or NVIDIA. **Vanilla RTX is not an official Minecraft product.** Made and maintained by <a href="https://github.com/Cubeir">Cubeir</a>.
