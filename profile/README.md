@@ -52,7 +52,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/vanilla-rtx/Texture-Set-Manager"><img src="assets/tools.jpg" alt="Tools for creators"></a>
       <h3>Tools for creators</h3>
-      The tooling behind Vanilla RTX, open for everyone making resource packs: <b>Texture Set Manager</b>, the <b>BrArchive.Net</b> library, and a tracker of every known Minecraft RTX bug.
+      Some of the tooling behind Vanilla RTX, open for everyone making resource packs: <b>Texture Set Manager</b>, the <b>BrArchive.Net</b> library, and a tracker of every known Minecraft RTX bug.
       <br><br>
       <a href="https://github.com/vanilla-rtx/Texture-Set-Manager">Texture Set Manager</a> ·
       <a href="https://github.com/vanilla-rtx/BrArchive.Net">BrArchive.Net</a> ·
