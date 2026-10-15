@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://vanillartx.net"><img alt="vanillartx.net" src="https://img.shields.io/badge/website-vanillartx.net-f4e9d3?style=flat-square&labelColor=1b1a19"></a>
-  <a href="https://apps.microsoft.com/detail/9N6PCRZ5V9DJ"><img alt="Vanilla RTX App on the Microsoft Store" src="https://img.shields.io/badge/app-Microsoft%20Store-c4ef1f?style=flat-square&labelColor=1b1a19"></a>
-  <a href="https://github.com/vanilla-rtx/Vanilla-RTX"><img alt="Vanilla RTX stars" src="https://img.shields.io/github/stars/vanilla-rtx/Vanilla-RTX?style=flat-square&label=stars&color=f4e9d3&labelColor=1b1a19"></a>
-  <a href="https://discord.gg/A4wv4wwYud"><img alt="Discord" src="https://img.shields.io/badge/discord-join-b57bff?style=flat-square&labelColor=1b1a19"></a>
-  <a href="https://ko-fi.com/cubeir"><img alt="Support on Ko-fi" src="https://img.shields.io/badge/support-Ko--fi-ff3b2f?style=flat-square&labelColor=1b1a19"></a>
+  <a href="https://vanillartx.net"><img alt="vanillartx.net status" src="https://img.shields.io/website?url=https%3A%2F%2Fvanillartx.net&up_message=online&up_color=F4E9D3&down_message=temporarily%20down&down_color=ED9E00&style=flat-square&label=vanillartx.net&cacheSeconds=300"></a>
+  <a href="https://apps.microsoft.com/detail/9N6PCRZ5V9DJ"><img alt="Vanilla RTX App latest version" src="https://img.shields.io/github/v/release/vanilla-rtx/Vanilla-RTX-App?style=flat-square&logo=github&logoColor=F4E9D3&color=F4E9D3&label=Vanilla%20RTX%20App&cacheSeconds=3600"></a>
+  <a href="https://github.com/vanilla-rtx/Vanilla-RTX"><img alt="Vanilla RTX stars" src="https://img.shields.io/github/stars/vanilla-rtx/Vanilla-RTX?style=flat-square&logo=github&logoColor=F4E9D3&color=F4E9D3&label=Stars&cacheSeconds=86400"></a>
+  <a href="https://discord.gg/A4wv4wwYud"><img alt="Discord" src="https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&color=F4E9D3&label=Discord&cacheSeconds=86400"></a>
+  <a href="https://ko-fi.com/cubeir"><img alt="Support on Ko-fi" src="https://img.shields.io/badge/-support%20the%20project-F4E9D3?style=flat-square&logo=ko-fi&logoColor=F4E9D3&labelColor=555555"></a>
 </p>
 
 <br>
